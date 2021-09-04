@@ -1,16 +1,7 @@
-/**
- * @file test_vector.cpp
- * @author Vivek Kumar Yadav (vivek.yadav@ltts.com)
- * @brief 
- * @version 0.1
- * @date 2021-06-08
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 #include "tracking.h"
-#include <github_actions_gtest_example/github_actions_gtest_example.h>
+
 #include <gtest/gtest.h>
 
 /**
