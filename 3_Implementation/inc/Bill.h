@@ -3,7 +3,7 @@
 #ifndef _Bill_H
 #define _Bill_H
 
-#include <github_actions_gtest_example/github_actions_gtest_example.h>
+
 #include<iostream>
 #include<string.h>
 #include<fstream>
