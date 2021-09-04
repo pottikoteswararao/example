@@ -1,0 +1,25 @@
+Soap,1,50,Available,25.5
+Soap,2,60,Available,25.6
+Soap,3,70,Available,25.7
+Soap,100,80,Unavailable,65
+Soap,5,90.5,Unavailable,35.6
+Shampoo,101,50.1,Available,25.51
+Shampoo,102,60.1,Available,25.61
+Shampoo,103,70.1,Available,25.71
+Shampoo,104,80.1,Unavailable,35.51
+Shampoo,105,90,Unavailable,35.6
+Salt,201,50.2,Available,25.52
+Salt,202,60.2,Available,25.62
+Salt,203,70.2,Available,25.72
+Salt,204,80.2,Unavailable,35.52
+Salt,205,90,Unavailable,35.6
+Sugar,301,50.3,Available,25.53
+Sugar,302,60.3,Available,25.63
+Sugar,303,70.3,Available,25.73
+Sugar,304,80.3,Unavailable,35.53
+Sugar,305,90,Unavailable,35.6
+Tooth Paste,401,50.4,Available,25.54
+Tooth Paste,402,60.4,Available,25.64
+Tooth Paste,403,70.4,Available,25.74
+Tooth Paste,404,80.4,Unavailable,35.54
+Tooth Paste,405,90,Unavailable,35.6
