@@ -1,18 +1,4 @@
-/**
- * @file tracking.h
- * @author Vivek Kumar Yadav (vivek.yadav@ltts.com)
- * @brief Function declarations and class definitions for vector activity
- * @version 0.1
- * @date 2021-07-11
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 
-/**
- * @brief header guards
- * 
- */
 #ifndef _TRACKING_H
 #define _TRACKING_H
 
@@ -27,7 +13,7 @@
 #include <vector>
 #include <sstream>
 #include <cstdlib>
-#include <github_actions_gtest_example/github_actions_gtest_example.h>
+
 
 using namespace std; 
 
