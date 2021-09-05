@@ -1,0 +1,14 @@
+name: G-Test
+on: [push]
+
+jobs:
+  build:
+    name: gtest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        
+      - name: Install gtest libraries
+        run: sudo apt-get install libgtest-dev
+      - name: gtest code
+        run: make -C 3_Implementation/ test
